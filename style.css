@@ -1,0 +1,16 @@
+*{
+    box-sizing:border-box;
+   
+}
+
+.hidden{
+    display: none;
+}
+
+#open , #closed{
+   position: relative;
+   text-align: center;  
+    font-size: 150px;
+    cursor: pointer;
+
+}
